@@ -1,4 +1,4 @@
-# 🚗 ParkFlow
+ # 🚗 ParkFlow
 
 ### Smart Vehicle Parking Management Platform
 
@@ -28,7 +28,7 @@ The application provides a modern web interface for users to manage their vehicl
 ### 🅿️ Parking Management
 
 * Create and manage parking lots
-* View available parking locations
+* View available parking locations.
 * Track parking capacity
 * Manage parking-related information through REST APIs
 
@@ -498,4 +498,5 @@ A suitable open-source license can be added to the repository depending on the p
 
 ---
 
-⭐ If you find this project useful, consider giving the repository a star.
+⭐ If you find this project useful, consider giving the repository a star.  
+D check it out
