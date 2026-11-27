@@ -496,7 +496,7 @@ This project is intended for educational and portfolio purposes.
 
 A suitable open-source license can be added to the repository depending on the project's distribution requirements.
 
----
+-----------
 
 ⭐ If you find this project useful, consider giving the repository a star.  
 D check it out
